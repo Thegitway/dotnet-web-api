@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qxSFdTKprkDDPUqqM+irwk49E6EOS88M5JEIlpZrVP4jlw034pCVPpWaeq4F38MvxUBMf/DyYJ2NmhHf0z5U5g==",
+  "dgSpecHash": "V7Pfi/ngLJJUlRmWzo3pAJhks1awcic0q877ycSsSL39VE/PDNL1D0C4eN5QMWloCKkZZG5UhigiiaS2TcDRQQ==",
   "success": true,
-  "projectFilePath": "D:\\DesktopV2\\c#\\ASP.net Core\\web api\\pizza\\pizza.csproj",
+  "projectFilePath": "C:\\Users\\omaro\\Desktop\\dotnet\\web api\\dotnet-web-api\\pizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omaro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\omaro\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

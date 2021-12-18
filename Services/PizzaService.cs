@@ -25,21 +25,24 @@ public static class PizzaService
         Pizzas.Add(pizza);
     }
 
-    public static void Delete(int id)
+    public static bool Delete(int id)
     {
         var pizza = Get(id);
         if(pizza is null)
-            return;
+            return false;
 
         Pizzas.Remove(pizza);
+
+        return true;
     }
 
-    public static void Update(Pizza pizza)
+    public static bool Update(Pizza pizza)
     {
         var index = Pizzas.FindIndex(p => p.Id == pizza.Id);
         if(index == -1)
-            return;
+            return false;
 
         Pizzas[index] = pizza;
+        return true;
     }
 }

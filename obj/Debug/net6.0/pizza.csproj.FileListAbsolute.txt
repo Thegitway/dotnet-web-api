@@ -25,3 +25,30 @@ D:\DesktopV2\c#\ASP.net Core\web api\pizza\obj\Debug\net6.0\pizza.dll
 D:\DesktopV2\c#\ASP.net Core\web api\pizza\obj\Debug\net6.0\ref\pizza.dll
 D:\DesktopV2\c#\ASP.net Core\web api\pizza\obj\Debug\net6.0\pizza.pdb
 D:\DesktopV2\c#\ASP.net Core\web api\pizza\obj\Debug\net6.0\pizza.genruntimeconfig.cache
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\bin\Debug\net6.0\appsettings.json
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\bin\Debug\net6.0\pizza.exe
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\bin\Debug\net6.0\pizza.deps.json
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\bin\Debug\net6.0\pizza.runtimeconfig.json
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\bin\Debug\net6.0\pizza.dll
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\bin\Debug\net6.0\ref\pizza.dll
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\bin\Debug\net6.0\pizza.pdb
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\pizza.csproj.AssemblyReference.cache
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\pizza.AssemblyInfoInputs.cache
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\pizza.AssemblyInfo.cs
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\pizza.csproj.CoreCompileInputs.cache
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\scopedcss\bundle\pizza.styles.css
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\pizza.csproj.CopyComplete
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\pizza.dll
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\ref\pizza.dll
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\pizza.pdb
+C:\Users\omaro\Desktop\dotnet\web api\dotnet-web-api\obj\Debug\net6.0\pizza.genruntimeconfig.cache

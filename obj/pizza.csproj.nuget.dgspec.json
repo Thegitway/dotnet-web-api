@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DesktopV2\\c#\\ASP.net Core\\web api\\pizza\\pizza.csproj": {}
+    "C:\\Users\\omaro\\Desktop\\dotnet\\web api\\dotnet-web-api\\pizza.csproj": {}
   },
   "projects": {
-    "D:\\DesktopV2\\c#\\ASP.net Core\\web api\\pizza\\pizza.csproj": {
+    "C:\\Users\\omaro\\Desktop\\dotnet\\web api\\dotnet-web-api\\pizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DesktopV2\\c#\\ASP.net Core\\web api\\pizza\\pizza.csproj",
+        "projectUniqueName": "C:\\Users\\omaro\\Desktop\\dotnet\\web api\\dotnet-web-api\\pizza.csproj",
         "projectName": "pizza",
-        "projectPath": "D:\\DesktopV2\\c#\\ASP.net Core\\web api\\pizza\\pizza.csproj",
+        "projectPath": "C:\\Users\\omaro\\Desktop\\dotnet\\web api\\dotnet-web-api\\pizza.csproj",
         "packagesPath": "C:\\Users\\omaro\\.nuget\\packages\\",
-        "outputPath": "D:\\DesktopV2\\c#\\ASP.net Core\\web api\\pizza\\obj\\",
+        "outputPath": "C:\\Users\\omaro\\Desktop\\dotnet\\web api\\dotnet-web-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
